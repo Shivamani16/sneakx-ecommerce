@@ -1,16 +1,85 @@
-# React + Vite
+# 👟 SneakX Ecommerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SneakX is a futuristic sneaker ecommerce website built using React, Tailwind CSS, Framer Motion, and Swiper.js.  
+The project delivers a premium shopping experience with smooth animations, responsive mobile UI, wishlist system, cart functionality, and order management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 🚀 Features
 
-## React Compiler
+- 🛒 Add to Cart System
+- ❤️ Wishlist Functionality
+- 📦 Orders Section
+- 🌙 Dark / Light Mode
+- ✨ Smooth Animations using Framer Motion
+- 📱 Fully Responsive Mobile UI
+- 🖼️ Product Modal View
+- 🎠 Swiper Hero Section
+- 💳 Fake Checkout & Payment Flow
+- 🧾 Bill Receipt Popup
+- 🔥 Premium Modern Ecommerce Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- Framer Motion
+- Swiper.js
+- React Icons
+- React Hot Toast
+- Vite
+
+---
+
+# 📂 Project Structure
+
+src/
+ ├── components/
+ ├── data/
+ ├── assets/
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/Shivamani16/sneakx-ecommerce.git
+
+Open project folder:
+
+cd sneakx-ecommerce
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+---
+
+# 🌐 Live Demo
+
+(Deploy link will be added after Vercel deployment)
+
+---
+
+# 👨‍💻 Author
+
+### Shivamani Kotagiri
+
+- GitHub: https://github.com/Shivamani16
+- LinkedIn: https://linkedin.com/in/shivamani-kotagiri-1380a426a
+
+---
+
+# ⭐ Project Status
+
+Completed ✅
